@@ -1,0 +1,9 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+torch
+numpy
